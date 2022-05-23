@@ -1,1 +1,1 @@
-# CS436
+Project code for CS436: Machine Learning
