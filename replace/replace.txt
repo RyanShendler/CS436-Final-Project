@@ -1,0 +1,2 @@
+replace missing values for stalk-root with most common value for stalk-root
+most common stalk-root value is 'b' (encoded to 1)

@@ -1,0 +1,32 @@
+30-70 Test-Training Split:
+BaseTestGaussian = 0.9208
+NoMissingTestGaussian = 0.7448
+NoVeilTestGaussian = 0.9208
+ReplaceTestGaussian = 0.8954
+BaseTestMultinomial(k=0) = 0.8117
+NoMissingTestMultinomial(k=0) = 0.8063
+NoVeilTestMultinomial(k=0) = 0.8117
+ReplaceTestMultinomial(k=0) = 0.8203
+BaseTestMultinomial(k=1) = 0.8112
+NoMissingTestMultinomial(k=1) = 0.8063
+NoVeilTestMultinomial(k=1) = 0.8112
+ReplaceTestMultinomial(k=1) = 0.8203
+BaseTestMultinomial(k=2) = 0.8112
+NoMissingTestMultinomial(k=2) = 0.8069
+NoVeilTestMultinomial(k=2) = 0.8112
+ReplaceTestMultinomial(k=2) = 0.8211
+
+BaseTestCategorical(k=0) = 0.9967
+NoMissingTestCategorical(k=0) = 0.9970
+NoVeilTestCategorical(k=0) = 0.9967
+ReplaceTestCategorical(k=0) = 0.9955
+
+BaseTestCategorical(k=1) = 0.9536
+NoMissingTestCategorical(k=1) = 0.9699
+NoVeilTestCategorical(k=1) = 0.9536
+ReplaceTestCategorical(k=1) = 0.9540
+
+BaseTestCategorical(k=2) = 0.9471
+NoMissingTestCategorical(k=2) = 0.9592
+NoVeilTestCategorical(k=2) = 0.9471
+ReplaceTestCategorical(k=2) = 0.9462

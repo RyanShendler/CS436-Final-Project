@@ -1,0 +1,2 @@
+removed the veil type column b/c it was redundant
+all rows had veil-type 'p'
